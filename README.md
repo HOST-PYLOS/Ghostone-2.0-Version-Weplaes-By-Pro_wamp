@@ -38,27 +38,49 @@ Oyun ismi : TEST       Oyun Sahibi : pro_wamp
 Welcome.txt'yi arayüzden dilediğiniz gibi düzenleyebilirsiniz.
 
 6* Baştan savma yapilan Turkish.cfg düzenlendi. +
+
 7* Lobbytimelimit dakika yerine saat olarak değiştirildi. +
+
 8* Replay Builder 1.26 Patch olarak değiştirildi. +
+
 9* Weplaes icin tanimlama olayi fixlendi. +
+
 10* RMK komutu ve WHORMK komutu eklendi.  +
+
 11* %100 istatistik tutan FF komutu ve WHOFF komutu eklendi. +
+
 12* Minff Suresi eklendi. Ghost.cfg bot_minff = 'den ayarlayabilirsiniz. +
+
 13* Checkme ve check komutu düzenlendi. owner ve spoofcheck yerleri kaldirildi , client acik olup olmadiği eklendi. +
+
 14* Sameip komutu eklendi. +
+
 15* Client komutu eklendi. +
+
 16* kurallar / rules komutu eklendi. +
+
 17* muteall <nick> komutu eklendi. +
+
 18* votemute eklendi. +
+
 19* votestart patch eklendi. -
+
 20* Oyun girişlerinde gösterilen istatistik sda olarak değiştirildi. +
+
 21* sd komutu düzenlendi. Win Lose eklendi ve tüm kullanıcılar kullanabilir. +
+
 22* statsdota komutu sda olarak değiştirildi ve . Score , rank eklendi. tüm kullanicilar kullanabilir. +
+
 23* colorednames.txt eklendi. +
+
 24* AB / Balance komutu eklendi ! +
+
 25* CB Komutu eklendi ve tum kullanicilar kullanabilir. +
+
 26* Score komutu eklendi ve tüm kullanıcılar kullanabilir. +
+
 27* Scores komutu eklendi ve tüm kullanıcılar kullanabilir. +
+
 28* Trade-Hack tespit edici eklendi. +
 
 
@@ -71,6 +93,7 @@ Bkz:
 pro_wamp 00FF00WaMP yazdığımızda pro_wamp nicki Yesil Renkte WaMP olarak görükecektir. Yazacağınız nicklerin küçük harfli olduğuna dikkat ediniz. Renk kodlarını ghostoneden alabilirsiniz.
 
 29* Gamelist Patch eklendi. +
+
 30* !Games komutu eklendi. +
 
 31* sqlite3 database için bot formula değiştirildi. Yeni oyun oynayan kullanıcıların ratingleri 1500 olarak ayarlandı ve kazanma durumunda +10 rating , kaybetme durumunda -5 rating kaybedecek. Oynadığı oyun
