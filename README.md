@@ -108,20 +108,35 @@ sayısına göre kullanıcılar 0.2 fazla rating kazacaktır. +
 Komutlar İşlevleri;
 
 !RMK = RMK oylaması başlatır. 2 takımda oy verirse oylama sonuçlanır oyun kapanır ve rmk açılır. +
+
 !WHORMK = RMK Oy sayıcını gösterir. +
+
 !FF = Komutu yazan takim için FF(forfeit) oylaması başlatır. Oylama sonuçlanırsa takım hükmen yenilmiş sayılır ve diğer takım oyunu kazanır. Oyun otomatik olarak kapanır.+
+
 !WHOFF = FF oy sayını gösterir. +
+
 !SAMEIP = Ayni ip'den giriş yapmış oyuncuları gösterir. +
+
 !CLIENT = Bulunduğunuz serverın clientinden giriş yapmış oyuncuları gösterir. +
+
 !GN = Mevcut oyun ismini gösterir. +
+
 !SCORE = Mevcut ratinginizi gösterir. +
+
 !SCORES = Takım oyuncularının ratinglerini gösterir. +
+
 !IGNOREALL = Butun oyuncuların yazışmaları siz için yok sayılır. Yani hiç birinin yazdığını okuyamazsınız. Tekrar aynı komutu yazdığınızda düzelir. +
+
 !KURALLAR / !RULES = Komut Ghostone 2.0 klasöründe bulunan kurallar.txt dosyasındaki yazdığınız kuralları ALLCHAT'tan yazar. +
+
 !VOTEMUTE <nick> = Oyuncu için mute oylaması başlatır. Oylama sonuçlanırsa oyuncu 1 oyunluk mutelenir. +
+
 !BALANCE/!AB = 2 takimin rating ortlamasını eşitler. +
+
 !CB = Takim ortlama ratingini gösterir. +
+
 !SCORE = Ratinginizi ve Rankinizi gösterir. +
+
 !SCORES = Oyuncuların sırayısla ratinglerini gösterir. +
 
  Sqlite3'te bazı komutlarda sorun olabilir. Bkz: !ab !cb !score !scores . Mysql database kullanmanızı tavsiye ederim. 
