@@ -100,7 +100,6 @@ pro_wamp 00FF00WaMP yazdığımızda pro_wamp nicki Yesil Renkte WaMP olarak gö
 sayısına göre kullanıcılar 0.2 fazla rating kazacaktır. +
 
 32* %100 Türkçe istatistik web sitesi eklendi.
-33*
 
 
 
