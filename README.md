@@ -16,6 +16,7 @@ id	botid	     server             name	   ip	               date	       gamename	
 Şimdi:
 
 !addban <nick>     = 
+
 id	botid	     server             name	   ip	               date	       gamename	         admin	   reason	gamecount	expiredate	   warn
 3	0	bnet.weplaes.com	test2	127.0.0.1	2015-03-25 16:44:54   Ghostone 2.0	pro_wamp    test	    0	    2015-03-27 16:44:54	    0 
 
@@ -113,7 +114,7 @@ Komutlar İşlevleri;
 !SAMEIP = Ayni ip'den giriş yapmış oyuncuları gösterir. +
 !CLIENT = Bulunduğunuz serverın clientinden giriş yapmış oyuncuları gösterir. +
 !GN = Mevcut oyun ismini gösterir. +
-!sCORE = Mevcut ratinginizi gösterir. +
+!SCORE = Mevcut ratinginizi gösterir. +
 !SCORES = Takım oyuncularının ratinglerini gösterir. +
 !IGNOREALL = Butun oyuncuların yazışmaları siz için yok sayılır. Yani hiç birinin yazdığını okuyamazsınız. Tekrar aynı komutu yazdığınızda düzelir. +
 !KURALLAR / !RULES = Komut Ghostone 2.0 klasöründe bulunan kurallar.txt dosyasındaki yazdığınız kuralları ALLCHAT'tan yazar. +
